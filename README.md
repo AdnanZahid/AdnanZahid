@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer with over 9 years of experience in software engineering, focused on building test-driven, scalable mobile applications that deliver great user experiences. While my primary expertise is in **mobile development** using **Swift** and **Objective-C**, I'm currently dabbling with **AI** and **Machine Learning** projects in an open-source capacity, exploring how these technologies can solve real-world problems.
 
-I'm passionate about creating high-quality, reliable software that meets both user needs and business goals and I enjoy experimenting with new tools and techniques.
+I'm passionate about creating high-quality, reliable software that meets both customer needs and business goals and I enjoy experimenting with new tools and techniques.
 
 #### Notable Projects:
 
