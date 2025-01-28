@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer with over 9 years of experience in software engineering, focused on building test-driven, scalable mobile applications that deliver great user experiences. While my primary expertise is in **mobile development** using **Swift** and **Objective-C**, I'm currently dabbling with **AI** and **Machine Learning** projects in an open-source capacity, exploring how these technologies can solve real-world problems.
 
-I'm passionate about creating high-quality, reliable software that meets both customer needs and business goals and I enjoy experimenting with new tools and techniques.
+I'm passionate about creating high-quality, reliable software that meets both customer needs and business goals, and I enjoy experimenting with new tools and techniques.
 
 #### Notable Projects:
 
@@ -27,6 +27,7 @@ I'm passionate about creating high-quality, reliable software that meets both cu
 - Reinforcement learning algorithms and AI optimization
 
 #### Find me online:
-
 - [LinkedIn](https://www.linkedin.com/in/adnan-zahid-69891253)
 - [Resume](https://github.com/AdnanZahid/AdnanZahid/raw/refs/heads/main/Resume%20(Senior%20Software%20Engineer).pdf)
+- [Stack Overflow](https://stackoverflow.com/users/1536476/adnan-zahid)
+- [Medium](https://medium.com/@adnaan.zaahid)
