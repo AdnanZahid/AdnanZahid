@@ -25,3 +25,8 @@ I'm passionate about creating high-quality, reliable software that meets both cu
 #### I'm currently learning:
 - Advanced deep learning techniques and frameworks
 - Reinforcement learning algorithms and AI optimization
+
+#### Find me online:
+
+- [LinkedIn](https://www.linkedin.com/in/adnan-zahid-69891253)
+- [Resume](https://github.com/AdnanZahid/AdnanZahid/raw/refs/heads/main/Resume%20(Senior%20Software%20Engineer).pdf)
