@@ -26,12 +26,14 @@ I'm passionate about creating high-quality, reliable software that meets both cu
 
 ---
 
-## Games developed
+## Notable games that I've developed:
 
-I have also developed a series of games that blend engaging gameplay with innovative technologies:
+I have also developed a series of games showcasing engaging gameplay, checkout the visually striking demo videos!
 
 ### Math Quest
-[![Math Quest Gameplay](https://img.youtube.com/vi/TcF-MheFxI4/0.jpg)](https://www.youtube.com/watch?v=TcF-MheFxI4)
+
+https://github.com/user-attachments/assets/c795a8bc-9ba5-4610-ab57-e9826efd0aa6
+
 - **[Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)** – An educational platformer game built using Apple's SpriteKit framework.
 - **Technologies**: Swift, SpriteKit  
 - **Features**:
@@ -43,7 +45,9 @@ I have also developed a series of games that blend engaging gameplay with innova
 ---
 
 ### Iron Cage
-[Iron Cage Gameplay](https://drive.google.com/file/d/1z3Z4f5G6h7K8L9Q2Y7X9Y8Z9X9Z9X9Z/view)
+
+https://github.com/user-attachments/assets/9815695f-ec90-43f3-be10-6849c03ecb8d
+
 - **[Iron Cage](https://github.com/AdnanZahid/Iron-cage)** – A fast-paced platformer where players navigate through challenging levels.
 - **Technologies**: Swift, SpriteKit  
 - **Features**:
@@ -54,7 +58,9 @@ I have also developed a series of games that blend engaging gameplay with innova
 ---
 
 ### Social Game
-[Social Game Gameplay](https://drive.google.com/file/d/1z3Z4f5G6h7K8L9Q2Y7X9Y8Z9X9Z9X9Z/view)
+
+https://github.com/user-attachments/assets/1f8fa2a9-af93-4584-a4a8-f6b26e7a751c
+
 - **[Social Game](https://github.com/AdnanZahid/Social-game)** – A 3D multiplayer game built using Apple's SceneKit.
 - **Technologies**: SceneKit, Swift, Node.js, Socket.IO  
 - **Features**:
@@ -65,7 +71,9 @@ I have also developed a series of games that blend engaging gameplay with innova
 ---
 
 ### Seesaw
-[Seesaw Gameplay](https://drive.google.com/file/d/1z3Z4f5G6h7K8L9Q2Y7X9Y8Z9X9Z9X9Z/view)
+
+https://github.com/user-attachments/assets/de764da0-4be3-40cd-abae-18f99b9c6ae5
+
 - **[Seesaw](https://github.com/AdnanZahid/Seesaw)** – A physics-based platformer built using PlayCanvas.
 - **Technologies**: PlayCanvas, JavaScript, WebGL  
 - **Features**:
@@ -75,7 +83,7 @@ I have also developed a series of games that blend engaging gameplay with innova
 
 ---
 
-## I'm currently learning:
+## I am currently learning:
 - Advanced deep learning techniques and frameworks
 - Reinforcement learning algorithms and AI optimization
 
@@ -86,3 +94,4 @@ I have also developed a series of games that blend engaging gameplay with innova
 - [Resume](https://github.com/AdnanZahid/AdnanZahid/raw/refs/heads/main/Resume%20(Senior%20Software%20Engineer).pdf)
 - [Stack Overflow](https://stackoverflow.com/users/1536476/adnan-zahid)
 - [Medium](https://medium.com/@adnaan.zaahid)
+- Email: adnaan.zaahid@gmail.com
